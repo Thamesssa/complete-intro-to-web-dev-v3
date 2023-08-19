@@ -2,7 +2,7 @@
 description: ""
 ---
 
-[Word Masters](/complete-intro-to-web-dev-v3/project-files/word-masters.html)
+[Word Masters][html]
 
 You and I are going to recreate the well known word game Wordle. If you're not familiar with Wordle (which we'll call Word Masters), here's how you play
 
